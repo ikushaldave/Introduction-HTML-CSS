@@ -1,0 +1,24 @@
+/* Element Selector */
+
+body {
+    background-color: whitesmoke;
+}
+
+
+/* ID Selector */
+
+#about-me {
+    color: cornflowerblue;
+    font-size: 2rem;
+    text-decoration: underline;
+    text-decoration-color: cornsilk;
+}
+
+
+/* Class Selector */
+
+.desc {
+    color: cadetblue;
+    font-size: 18px;
+    font-weight: 500;
+}
